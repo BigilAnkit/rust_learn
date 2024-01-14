@@ -1,0 +1,6 @@
+target/
+*.lock
+*.toml
+*.pdb
+*.exe
+variable_practice/
